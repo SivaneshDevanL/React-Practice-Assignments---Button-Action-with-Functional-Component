@@ -5,7 +5,7 @@ function App()
 {
   return (
   <div id="main">
-    //Don not altem main div
+    //Don not alter main div
   </div>
   );
 }
