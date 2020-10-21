@@ -1,12 +1,11 @@
 import React, {Component, useState} from "react";
 import "./../styles/App.css";
 
-function App() 
-{
+function App() {
   return (
-  <div id="main">
-    //Don not alter main div
-  </div>
+    <div id="main">
+      // Do not alter the main div
+    </div>
   );
 }
 
